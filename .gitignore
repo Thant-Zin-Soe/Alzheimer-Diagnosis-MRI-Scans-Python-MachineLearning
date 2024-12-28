@@ -1,0 +1,9 @@
+venv/
+# Ignore all .h5 and .keras files
+*.h5
+*.keras
+
+# Ignore specific large files
+trained_model.h5
+alzheimer_model.h5
+best_model.keras
