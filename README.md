@@ -43,7 +43,7 @@ The system also provides results in a **visual and intuitive format**, helping t
 - **Matplotlib** and **Seaborn**: For visualization and plotting.
 
 ---
-📖 How to Run
+## 📖 How to Run
 1. Train the Models
 -Execute the Jupyter Notebook or Python script.
 -Preprocess the dataset and train:
@@ -57,7 +57,7 @@ The system also provides results in a **visual and intuitive format**, helping t
 -Display the results in a 2x2 grid visualization annotated with predictions and filenames.
 
 
-📊 Project Outputs
+## 📊 Project Outputs
 Predictions
 For unseen MRI images, the predictions are displayed as:
 -Healthy
